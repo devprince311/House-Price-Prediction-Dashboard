@@ -119,13 +119,3 @@ The project demonstrates how combining **EDA, feature engineering, and regressio
 Computer Engineering | Data & Product Analytics
 
 ---
-
-If you want, I can:
-
-* 🔥 Rewrite this to be **ATS-optimized**
-* 🧾 Make a **shorter README** (some recruiters prefer concise repos)
-* 📊 Align it exactly with **Power BI / Streamlit** wording
-* 🧠 Tailor it for **Product / Data Analyst roles**
-
-Just tell me 👍
-
